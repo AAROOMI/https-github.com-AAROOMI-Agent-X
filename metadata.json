@@ -1,0 +1,6 @@
+{
+  "name": "Agent X — GRC & Cybersecurity",
+  "description": "Enterprise AI-powered GRC, Cybersecurity, and Compliance Command Center with agentic workforce and multi-framework management.",
+  "requestFramePermissions": ["CAMERA_MIC"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
